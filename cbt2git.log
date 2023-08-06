@@ -1,0 +1,8 @@
+2023-08-06 03:35:13.903391 - Initialized conversion of CBT351
+2023-08-06 03:35:13.934191 - Received CBT.V505.FILE351.PDS from FILE351.XMI 
+2023-08-06 03:35:13.936020 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE351.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:35:13.937246 - Found $$INFO.txt (text/plain) in CBT.V505.FILE351.PDS, moved to PDS/$$INFO
+2023-08-06 03:35:13.938233 - Found @FILE351.txt (text/plain) in CBT.V505.FILE351.PDS, moved to PDS/@FILE351
+2023-08-06 03:35:13.939195 - Found BATCH.txt (text/plain) in CBT.V505.FILE351.PDS, moved to PDS/BATCH
+2023-08-06 03:35:13.940065 - Found C.x-c (text/x-c) in CBT.V505.FILE351.PDS, moved to PDS/C
+2023-08-06 03:35:13.940935 - Found CICS.txt (text/plain) in CBT.V505.FILE351.PDS, moved to PDS/CICS
