@@ -1,7 +1,7 @@
-2025-04-15 01:45:26.282796 - Received CBT.V508.FILE351.PDS from FILE351.XMI 
-2025-04-15 01:45:26.284093 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE351.PDS, moved to PDS/$$$#DATE
-2025-04-15 01:45:26.284397 - Found $$INFO.txt (text/plain) in CBT.V508.FILE351.PDS, moved to PDS/$$INFO
-2025-04-15 01:45:26.284568 - Found @FILE351.txt (text/plain) in CBT.V508.FILE351.PDS, moved to PDS/@FILE351
-2025-04-15 01:45:26.284729 - Found BATCH.txt (text/plain) in CBT.V508.FILE351.PDS, moved to PDS/BATCH
-2025-04-15 01:45:26.284876 - Found C.x-c (text/x-c) in CBT.V508.FILE351.PDS, moved to PDS/C
-2025-04-15 01:45:26.285060 - Found CICS.txt (text/plain) in CBT.V508.FILE351.PDS, moved to PDS/CICS
+2025-04-15 20:34:06.358485 - Received CBT.V508.FILE351.PDS from FILE351.XMI 
+2025-04-15 20:34:06.359656 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE351.PDS, moved to PDS/$$$#DATE
+2025-04-15 20:34:06.360006 - Found $$INFO.txt (text/plain) in CBT.V508.FILE351.PDS, moved to PDS/$$INFO
+2025-04-15 20:34:06.360087 - Found @FILE351.txt (text/plain) in CBT.V508.FILE351.PDS, moved to PDS/@FILE351
+2025-04-15 20:34:06.360311 - Found BATCH.txt (text/plain) in CBT.V508.FILE351.PDS, moved to PDS/BATCH
+2025-04-15 20:34:06.360540 - Found C.x-c (text/x-c) in CBT.V508.FILE351.PDS, moved to PDS/C
+2025-04-15 20:34:06.360773 - Found CICS.txt (text/plain) in CBT.V508.FILE351.PDS, moved to PDS/CICS
